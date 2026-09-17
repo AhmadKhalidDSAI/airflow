@@ -1,0 +1,31 @@
+appid,name,release_date,developer,publisher,platforms,categories,genres,positive_ratings,negative_ratings,average_playtime,median_playtime,owners,price
+10,Counter-Strike,2000-11-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,124534,3339,17612,317,10000000-20000000,7.19
+20,Team Fortress Classic,1999-04-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,3318,633,277,62,5000000-10000000,3.99
+30,Day of Defeat,2003-05-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,3416,398,187,34,5000000-10000000,3.99
+40,Deathmatch Classic,2001-06-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,1273,267,258,184,5000000-10000000,3.99
+50,Half-Life: Opposing Force,1999-11-01,Gearbox Software,Valve,windows;mac;linux,Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,5250,288,624,415,5000000-10000000,3.99
+60,Ricochet,2000-11-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,2758,674,131,60,5000000-10000000,3.99
+70,Half-Life,1998-11-08,Valve,Valve,windows;mac;linux,Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,27755,1100,1300,83,5000000-10000000,7.19
+80,Condition Zero,2004-03-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,12120,1439,603,214,10000000-20000000,7.19
+100,Counter-Strike: Condition Zero Deleted Scenes,2004-03-01,Valve,Valve,windows;mac;linux,Single-player;Multi-player;Valve Anti-Cheat enabled,Action,2403,558,88,7,10000000-20000000,7.19
+130,Half-Life: Blue Shift,2001-06-01,Gearbox Software,Valve,windows;mac;linux,Single-player,Action,2936,257,261,85,5000000-10000000,3.99
+220,Half-Life 2,2004-11-16,Valve,Valve,windows;mac;linux,Single-player;Captions available;Valve Anti-Cheat enabled;Includes level editor,Action,67070,2598,261,119,10000000-20000000,7.19
+240,Counter-Strike: Source,2004-11-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled,Action,76640,3497,12498,1498,10000000-20000000,7.19
+280,Half-Life: Source,2004-06-01,Valve,Valve,windows;mac;linux,Single-player,Action,4239,1234,110,22,5000000-10000000,7.19
+300,Day of Defeat: Source,2005-09-26,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Valve Anti-Cheat enabled,Action,5765,498,347,56,5000000-10000000,7.19
+320,Half-Life 2: Deathmatch,2004-11-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Valve Anti-Cheat enabled,Action,6568,1027,312,86,10000000-20000000,3.49
+340,Half-Life 2: Lost Coast,2005-10-27,Valve,Valve,windows;mac;linux,Single-player;Captions available,Action,8274,591,27,19,10000000-20000000,0.0
+360,Half-Life Deathmatch: Source,2006-05-01,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Valve Anti-Cheat enabled,Action,1551,432,71,26,5000000-10000000,7.19
+380,Half-Life 2: Episode One,2006-06-01,Valve,Valve,windows;mac;linux,Single-player;Captions available;Valve Anti-Cheat enabled,Action,14637,877,189,116,5000000-10000000,5.99
+400,Portal,2007-10-10,Valve,Valve,windows;mac;linux,Single-player;Captions available;Valve Anti-Cheat enabled,Action,51466,1tried,189,122,10000000-20000000,7.19
+420,Half-Life 2: Episode Two,2007-10-10,Valve,Valve,windows;mac;linux,Single-player;Captions available;Valve Anti-Cheat enabled,Action,19130,720,258,170,5000000-10000000,5.99
+440,Team Fortress 2,2007-10-10,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Valve Anti-Cheat enabled;In-App Purchases,Action;Free to Play,164344,16563,35397,63,50000000-100000000,0.0
+500,Left 4 Dead,2008-11-17,Valve,Valve,windows;mac,Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Valve Anti-Cheat enabled;Stats;Captions available;Commentary available,Action,26683,1249,2013,857,10000000-20000000,7.19
+550,Left 4 Dead 2,2009-11-17,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Valve Anti-Cheat enabled;Stats;Includes level editor;Captions available;Commentary available,Action,189498,5990,10289,1022,20000000-50000000,7.19
+570,Dota 2,2013-07-09,Valve,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Trading Cards;Valve Anti-Cheat enabled;In-App Purchases,Action;Free to Play;Strategy,836608,198794,55498,2498,100000000-200000000,0.0
+620,Portal 2,2011-04-19,Valve,Valve,windows;mac;linux,Single-player;Co-op;Online Co-op;Captions available;Steam Trading Cards;Valve Anti-Cheat enabled;Includes level editor;Commentary available,Action,261439,5704,594,262,10000000-20000000,7.19
+730,Counter-Strike: Global Offensive,2012-08-21,Valve;Hidden Path Entertainment,Valve,windows;mac;linux,Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Valve Anti-Cheat enabled;Stats;In-App Purchases,Action;Free to Play,2965328,293498,30946,5246,50000000-100000000,0.0
+4000,Garry's Mod,2006-11-29,Facepunch Studios,Valve,windows;mac;linux,Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Online Co-op;Local Co-op;Valve Anti-Cheat enabled;Includes level editor;In-App Purchases,Indie;Simulation,370424,14305,6843,2210,20000000-50000000,7.19
+4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,GSC Game World,GSC Game World,windows,Single-player,Action,14989,564,1236,497,5000000-10000000,14.99
+4540,Titan Quest Anniversary Edition,2016-08-31,Iron Lore Entertainment,THQ Nordic,windows,Single-player;Multi-player;Online Multi-Player;Online Co-op;Steam Cloud;Steam Trading Cards;Valve Anti-Cheat enabled,Action;RPG,7948,543,1449,447,2000000-5000000,14.99
+4560,Company of Heroes,2006-09-12,Relic Entertainment,SEGA,windows,Single-player;Multi-player;Online Multi-Player,Strategy,10780,393,629,201,5000000-10000000,14.99
